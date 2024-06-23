@@ -2,4 +2,32 @@
 2. we need to generate the keys or use existing keys
 3.keep the public key in the github.
 4.Create the .ssh foldred in the user directory if not exists
+/c/users/kondareddy1229/.ssh
 5.create the config file in .ssh folder without extension
+6.keep the config in github
+
+/Users/<user-name> --Mac
+/home/<user-name> --Windows
+
+Github --> forder in internet with some tracking capabilities
+
+git clone a repo:
+---------------------
+clone --> Downliading a copy
+#git clone <url>
+
+add files to stagging/temp area
+-----------------------------------
+#git add <file name> --->single file adding
+#git add . --->multiple files adding at a time
+
+commit into local repo
+-------------------------
+#commit -m "I am practicing git"
+
+push code into central repo
+----------------------------
+#git push origin master
+** We can add above commands at a time **
+  #git add . ; git commit -m "I am practicing the git" ; git push origin master
+
