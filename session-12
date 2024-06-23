@@ -1,0 +1,5 @@
+1.signup for github
+2. we need to generate the keys or use existing keys
+3.keep the public key in the github.
+4.Create the .ssh foldred in the user directory if not exists
+5.create the config file in .ssh folder without extension
